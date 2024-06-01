@@ -30,4 +30,4 @@ st.title('SOURCE CODE')
 
 
 # File uploader to upload the .ipynb file
-display_notebook('./SPACE.ipynb')
+display_notebook('SPACE.ipynb')
