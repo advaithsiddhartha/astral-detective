@@ -1,4 +1,3 @@
-pip install nbformat
 import streamlit as st
 import nbformat
 from nbconvert import HTMLExporter
