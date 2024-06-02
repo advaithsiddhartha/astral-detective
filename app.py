@@ -19,7 +19,7 @@ def display_notebook(notebook_file):
 st.title('ASTRAL DETECTIVE')
 st.write('IDENTIFYING SPACE CELESTIAL BODIES WITH THE HELP OF MACHINE LEARNING')
 st.info('-Advaith Siddhartha')
-st.write(Data set used  =>  : [DATA SET ](https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey)")
+st.write("Data set used  =>  : [DATA SET ](https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey)")
 st.success("About Me .. CLICK HERE =>  : [My Portfolio ](https://advaithsid.web.app/)")
 image = st.image("k.png", caption="Sample Image", use_column_width=True)
 st.title('THEORY')
