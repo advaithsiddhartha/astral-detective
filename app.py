@@ -13,7 +13,7 @@ def display_notebook(notebook_file):
     (body, resources) = html_exporter.from_notebook_node(notebook)
     
     # Display the HTML content in Streamlit
-    st.components.v1.html(body, height=1200, scrolling=True)
+    st.components.v1.html(body, height=1800, scrolling=True)
 
 # Streamlit app title
 st.title('ASTRAL DETECTIVE')
