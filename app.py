@@ -21,7 +21,7 @@ st.write('IDENTIFYING SPACE CELESTIAL BODIES WITH THE HELP OF MACHINE LEARNING')
 st.info('-Advaith Siddhartha')
 st.write("Data set used  =>  : [DATA SET ](https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey)")
 st.success("About Me .. CLICK HERE =>  : [My Portfolio ](https://advaithsid.web.app/)")
-image = st.image("k.png", caption="Sample Image", use_column_width=True)
+image = st.image("k.png", caption="Image Processing CLR", use_column_width=True)
 st.title('THEORY')
 st.write('''Hey There !
 My machine learning project revolves around leveraging the power of K-Nearest Neighbors (KNN) and Linear Regression to identify celestial objects such as stars, galaxies, and planets. Utilizing the rich and expansive Sloan Digital Sky Survey (SDSS) DR14 dataset from Kaggle, this project aims to classify these astronomical entities accurately. The SDSS DR14 dataset is renowned for its comprehensive collection of data points, which include detailed observations of celestial bodies, encompassing attributes such as their magnitude in various filters (u, g, r, i, z), as well as redshift values. This data provides a fertile ground for training machine learning models.
@@ -39,7 +39,7 @@ Another avenue for improvement is the use of data augmentation techniques. By ar
 To enhance the project’s applicability and performance, integrating unsupervised learning techniques such as clustering (e.g., K-means or DBSCAN) could help identify underlying patterns in the data that might not be immediately apparent. These techniques could uncover new insights into the classification of celestial objects and potentially lead to the discovery of novel astronomical phenomena.
 
 Overall, this machine learning project on identifying stars, galaxies, and planets from the SDSS DR14 dataset not only demonstrates the utility of KNN and Linear Regression but also highlights the challenges and potential solutions in dealing with limited image data. The planned enhancements, including transfer learning, data augmentation, and synthetic data generation, aim to overcome these challenges, paving the way for more accurate and comprehensive astronomical object classification.''')
-st.title('SOURCE CODE')
+st.title('SOURCE CODE phase - 1')
 
 
 
